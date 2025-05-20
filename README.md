@@ -4,33 +4,33 @@ Esse sistema é um projeto em desevolvimento, referente a materia de Engenharia 
 
 ```
 📦 SGFE/
-├── 📁 docs/
-│   ├── vision/                        ← Documento de visão e escopo
-│   │   └── vision_tpl.odt
-│   ├── requirements/
-│   │   ├── systemwide_req_spec.odt   ← Requisitos não funcionais
-│   │   └── uc_specification_tpl.odt  ← Requisitos funcionais
-│   ├── architecture/
-│   │   └── architecture-notebook.odt ← Arquitetura de software
-│   ├── planning/
-│   │   ├── iteration_plan_tpl.odt    ← Plano de iteração
-│   │   └── project_plan_tpl.odt      ← Plano do projeto
-│   ├── management/                   ← Processo de gerenciamento
+├── 📁 documentos/
+│   ├── visao/                             ← Documento de visão e escopo
+│   │   └── modelo_visao.odt
+│   ├── requisitos/                        ← Requisitos do sistema
+│   │   ├── requisitos_nao_funcionais.odt    ← Requisitos não funcionais
+│   │   └── requisitos_funcionais.odt  ← Requisitos funcionais
+│   ├── arquitetura/                      ← Arquitetura do sistema
+│   │   └── caderno_arquitetura.odt ← Arquitetura de software
+│   ├── planejamento/                     ← Planejamento do projeto
+│   │   ├── plano_iteracao.odt               ← Plano de iteração
+│   │   └── plano_projeto.odt      ← Plano do projeto
+│   ├── gerencia/                         ← Gerenciamento do projeto
 │   │   └── gerenciamento.md (ou .odt/.pdf)
-│   ├── infrastructure/               ← Infraestrutura de implantação
+│   ├── infraestrutura/                   ← Infraestrutura de implantação
 │   │   └── infraestrutura.md (ou .odt)
-│   ├── database/                     ← Projeto físico do banco
-│   │   ├── modelo-fisico.drawio
+│   ├── banco_dados/                      ← Projeto físico do banco de dados
+│   │   ├── modelo_fisico.drawio
 │   │   └── script.sql
-│   └── ui-design/                    ← Projeto de interface
+│   └── design_interface/                 ← Projeto de interface do usuário
 │       ├── telas.fig (ou .png/.pdf)
-│       └── fluxo-navegacao.pdf
+│       └── fluxo_navegacao.pdf
 │
-├── 📁 prototype/
-│   ├── prototipo/                    ← Protótipo funcional (HTML, app, etc.)
+├── 📁 prototipo/
+│   ├── funcional/                    ← Protótipo funcional (HTML, app, etc.)
 │   └── video-demonstracao.mp4       ← Demonstração do sistema em uso
 │
-├── 📁 src/                           ← Código-fonte do sistema
+├── 📁 codigo_fonte/                           ← Código-fonte do sistema
 │   └── ...                           ← Pastas específicas por módulo
 │
 ├── README.md                        ← Explicação geral do projeto
