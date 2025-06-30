@@ -1,6 +1,6 @@
 # SGFE - Sistema gerenciador de feira e expositores
 
-Esse sistema é um projeto em desevolvimento, referente a materia de Engenharia de software. A estrutura base da organização das pastas é a seguinte:
+Esse sistema é um projeto referente a materia de Engenharia de software. A estrutura base da organização das pastas é a seguinte:
 
 ```
 📦 SGFE/
@@ -27,11 +27,10 @@ Esse sistema é um projeto em desevolvimento, referente a materia de Engenharia 
 │       └── fluxo_navegacao.pdf
 │
 ├── 📁 prototipo/
-│   ├── funcional/                    ← Protótipo funcional (HTML, app, etc.)
-│   └── video-demonstracao.mp4       ← Demonstração do sistema em uso
+│   └── video-demonstracao.txt       ← Nota contendo os links para acessar os videos.
 │
-├── 📁 codigo_fonte/                           ← Código-fonte do sistema
-│   └── ...                           ← Pastas específicas por módulo
+├── 📁 codigo_fonte/                           ← Código-fonte do sistema # Não implementado
+│   └── ...                           ← Pastas específicas por módulo # Não implementado
 │
 ├── README.md                        ← Explicação geral do projeto
 └── LICENSE                          ← Licença do projeto (MIT, GPL, etc.)
