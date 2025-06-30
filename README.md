@@ -1,5 +1,14 @@
 # SGFE - Sistema gerenciador de feira e expositores
 
+Altores:
+BRUNO EDUARDO - 211066249
+GEILSON - 231006239
+MARCOS ALEXANDRE - 211055334
+PEDRO FARIAS - 211055577
+THELMA EVANGELISTA - 231003513
+WESLEY HENRIQUE - 231021496
+
+
 Esse sistema é um projeto referente a materia de Engenharia de software. A estrutura base da organização das pastas é a seguinte:
 
 ```
